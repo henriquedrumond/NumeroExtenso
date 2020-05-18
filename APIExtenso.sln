@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIExtenso", "APIExtenso\APIExtenso.csproj", "{A4EFD98C-9116-41A0-BAE8-ACDBA2940DAE}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C6E00161-597A-46AC-A332-BD12282533AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4EFD98C-9116-41A0-BAE8-ACDBA2940DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EFD98C-9116-41A0-BAE8-ACDBA2940DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EFD98C-9116-41A0-BAE8-ACDBA2940DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EFD98C-9116-41A0-BAE8-ACDBA2940DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E00161-597A-46AC-A332-BD12282533AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E00161-597A-46AC-A332-BD12282533AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E00161-597A-46AC-A332-BD12282533AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E00161-597A-46AC-A332-BD12282533AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

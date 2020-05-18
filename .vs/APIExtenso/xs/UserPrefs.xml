@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C6E00161-597A-46AC-A332-BD12282533AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIExtenso/Core/ConversaoNumeros.cs">
+    <Files>
+      <File FileName="ExecucaoNumero/Conversao/ConversaoNumeros.cs" Line="37" Column="1" />
+      <File FileName="APIExtenso/Controllers/NumeroExtensoController.cs" Line="31" Column="67" />
+      <File FileName="APIExtenso/Helpers/ExtensoesDeString.cs" Line="10" Column="100" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIExtenso" expanded="True">
+            <Node name="APIExtenso" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="ConversaoNumeros.cs" selected="True" />
+              </Node>
+              <Node name="Domain" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APIExtenso PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  apiextenso:
+    image: ${DOCKER_REGISTRY-}apiextenso
+    build:
+      context: .
+      dockerfile: APIExtenso/Dockerfile
